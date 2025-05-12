@@ -1,0 +1,23 @@
+2025/04/15-14:42:35.258 c2e9 Reusing MANIFEST /home/frogzinkk/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/04/15-14:42:35.267 c2e9 Recovering log #4
+2025/04/15-14:42:35.267 c2e9 Reusing old log /home/frogzinkk/.config/vesktop/sessionData/Local Storage/leveldb/000004.log 
+2025/04/15-14:44:35.719 c2ea Level-0 table #7: started
+2025/04/15-14:44:35.725 c2ea Level-0 table #7: 29296 bytes OK
+2025/04/15-14:44:35.733 c2ea Delete type=0 #4
+2025/04/15-17:54:50.380 c2ea Level-0 table #9: started
+2025/04/15-17:54:50.388 c2ea Level-0 table #9: 39726 bytes OK
+2025/04/15-17:54:50.396 c2ea Delete type=0 #6
+2025/04/15-18:14:02.335 c2ea Level-0 table #11: started
+2025/04/15-18:14:02.342 c2ea Level-0 table #11: 27769 bytes OK
+2025/04/15-18:14:02.350 c2ea Delete type=0 #8
+2025/04/15-18:14:02.350 c2ea Compacting 4@0 + 0@1 files
+2025/04/15-18:14:02.358 c2ea Generated table #12@0: 101 keys, 61160 bytes
+2025/04/15-18:14:02.358 c2ea Compacted 4@0 + 0@1 files => 61160 bytes
+2025/04/15-18:14:02.366 c2ea compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/04/15-18:14:02.366 c2ea Delete type=2 #3
+2025/04/15-18:14:02.366 c2ea Delete type=2 #7
+2025/04/15-18:14:02.366 c2ea Delete type=2 #9
+2025/04/15-18:14:02.366 c2ea Delete type=2 #11
+2025/04/15-19:32:35.638 c2ea Level-0 table #14: started
+2025/04/15-19:32:35.645 c2ea Level-0 table #14: 18101 bytes OK
+2025/04/15-19:32:35.653 c2ea Delete type=0 #10

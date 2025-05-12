@@ -1,0 +1,8 @@
+{
+  "backend": "hyprpaper",
+  "fill": "fill",
+  "post_command": "/home/frogzinkk/.config/waypaper/post_command.sh",
+  "wallpapers": {
+    "DP-2": "/home/frogzinkk/Downloads/Wallpapers/wallhaven-2yrwzy.jpg"
+  }
+}

@@ -1,0 +1,4 @@
+show = drun
+prompt = 
+insensitive = true
+term = kitty
